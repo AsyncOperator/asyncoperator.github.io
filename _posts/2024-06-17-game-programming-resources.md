@@ -7,6 +7,7 @@ tags: [resources]
 pin: true
 ---
 
+
 During my time working on game development, I have consumed content from various materials.
 Based on this experience, I would like to share some resources that I find beneficial to follow.
 
@@ -27,7 +28,6 @@ Resources where you can find various content related to game development.
 - [t3ssel8r](https://www.youtube.com/@t3ssel8r)
 - [SimonDev](https://www.youtube.com/@simondev758)
 - [Coding Math](https://www.youtube.com/@codingmath)
-- [aarthificial](https://www.youtube.com/@aarthificial)
 
 ---
 
@@ -39,6 +39,7 @@ Although not the primary sources for acquiring information, these are resources 
 
 - [Robert Thomson](https://www.youtube.com/@RobertThomsonDev)
 - [Codeer](https://www.youtube.com/@Codeer)
+- [aarthificial](https://www.youtube.com/@aarthificial)
 
 ---
 
