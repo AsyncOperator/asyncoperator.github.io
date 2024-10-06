@@ -5,6 +5,10 @@ order: 5
 ---
 
 
+<iframe src="/assets/files/resume.pdf" width="100%" height="600px"></iframe>
+
+---
+
 ## Summary
 
 I am a game programmer with expertise in Unity and have been actively involved in game development since 2019.
