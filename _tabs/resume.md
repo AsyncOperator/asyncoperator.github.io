@@ -26,9 +26,8 @@ During this time, I have worked on projects for companies as a full-time employe
 #### Source Control and GUI Clients
 
 * Git
-* Unity VCS
-* Plastic SCM
 * GitHub Desktop/CLI
+* Unity VCS (*formerly named as Plastic SCM*)
 * SourceTree
 
 #### Tools
