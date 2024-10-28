@@ -27,7 +27,6 @@ Resources where you can find various content related to game development.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain)
 - [t3ssel8r](https://www.youtube.com/@t3ssel8r)
 - [SimonDev](https://www.youtube.com/@simondev758)
-- [Coding Math](https://www.youtube.com/@codingmath)
 
 ---
 
@@ -58,6 +57,7 @@ Resources where you can learn about game design.
 ## Math
 
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Coding Math](https://www.youtube.com/@codingmath)
 
 ---
 
