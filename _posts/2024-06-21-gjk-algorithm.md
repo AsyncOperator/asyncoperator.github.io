@@ -3,7 +3,7 @@ title: Gilbert–Johnson–Keerthi Algorithm
 author: AsyncOperator
 date: 2024-06-21 17:45:00 +0300
 categories: [game development, game programming]
-tags: [collision testing]
+tags: [algorithm, collision testing]
 ---
 
 
