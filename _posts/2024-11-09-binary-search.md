@@ -41,7 +41,7 @@ This quick narrowing down makes binary search super efficient, especially for la
       stopwatch.Stop();
 
       //var stopwatch = Stopwatch.StartNew();
-      //var valueFound = BinarySearch(list, value: 43);
+      //var valueFound = LinearSearch(list, value: 43);
       //stopwatch.Stop();
 
       Console.WriteLine(valueFound);
