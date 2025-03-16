@@ -61,4 +61,4 @@ The algorithm then iterates through the sorted points, and for each point, it de
 ---
 
 ![Graham scan algorithm demonstration](/assets/img/posts/graham-scan.gif)
-_Graham scan algoritm implemented inside Unity Engine_
+_Graham scan algorithm implemented inside Unity Engine_
