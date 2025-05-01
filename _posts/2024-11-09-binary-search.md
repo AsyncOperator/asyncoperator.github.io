@@ -8,14 +8,14 @@ tags: [algorithm]
 
 
 Imagine you have a list of sorted items, like numbers in order, and you need to find one specific number.
-Instead of checking each item one by one, binary search lets you *divide and conquer*.
+Instead of checking each item one by one, binary search lets you `divide and conquer`.
 You start in the middle of the list; if the middle item is too high, you ignore the top half, and if it’s too low, you ignore the bottom half.
 Repeat this halving process until you find your item—or confirm it’s not there.
 This quick narrowing down makes binary search super efficient, especially for large lists.
 
 ---
 
-> Unlike my other blog posts, this time I will write the application in a console project.
+> Unlike my other blog posts, this time I will write the sample code in a console project.
 {: .prompt-info }
 
 ```csharp
