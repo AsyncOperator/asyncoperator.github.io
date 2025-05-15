@@ -30,7 +30,7 @@ private bool CollisionDetection(out object hitObject)
 }
 
 // Just interested whether collision occured or not
-bool collisionOccured = CollisionDetection(out object _);
+bool collisionOccured = CollisionDetection(out _);
 ```
 
 ---
@@ -49,4 +49,35 @@ private (int value1, int value2) Foo()
 }
 ```
 
-These are the ones I can think of right now, I can add new ones in the future.
+---
+
+Use `switch expression` to save some lines and improve readability
+```csharp
+// The old, boring switch statement implementation
+string response;
+switch (message)
+{
+    case "Hey!":
+    {
+        response = "Hi!";
+    } break;
+    case "Goodbye!":
+    {
+        response = "See you later!";
+    } break;
+    default:
+    {
+        response = string.Empty;
+    } break;
+}
+
+// Much compact and good looking switch expression implementation
+string response = message switch
+{
+    "Hey!" => "Hi!",
+    "Goodbye!" => "See you later!",
+    _ => string.Empty
+};
+```
+
+These are the ones I can think of right now, I may add new ones in the future.
