@@ -20,8 +20,8 @@ During this time, I have worked on projects for companies as a full-time employe
 
 #### Languages
 
-* C#
-* C++
+* C#, *on a daily basis*
+* C/C++, *usually in my hobby projects*
 
 #### Source Control and GUI Clients
 
@@ -32,6 +32,8 @@ During this time, I have worked on projects for companies as a full-time employe
 
 #### Tools
 
+* Visual Studio
+* JetBrains Rider
 * Jira
 * Obsidian
 * Slack
